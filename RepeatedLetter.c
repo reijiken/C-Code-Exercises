@@ -2,7 +2,6 @@
 #include <stdio.h>
 
 int main() {
-    // Write C code here
     int i, count;
     char c;
     printf("Enter the letter you want: ");
