@@ -1,6 +1,5 @@
 // C program to check if three input numbers are parts of a square triangle
 #include <stdio.h>
-
 int main() {
     int a, b, c;
     printf("Enter three numbers: ");
