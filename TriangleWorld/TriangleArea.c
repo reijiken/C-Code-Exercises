@@ -9,7 +9,8 @@ int main() {
     {
         printf("Invalid numbers");
     }
-    else{
+    else
+    {
         double S;
         float p;
         p = (a + b + c) / 2;
