@@ -1,3 +1,4 @@
+// C program to print the area of a triangle with three input numbers
 #include <stdio.h>
 #include <math.h>
 int main() {
