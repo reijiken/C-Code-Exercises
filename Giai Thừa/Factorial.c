@@ -1,7 +1,7 @@
 // C program to compute the factorial of N using recursion
 #include <stdio.h>
 #include <math.h>
-int factorial(int n)
+int factorial(int n) // C function factorial with input integer n
 {
     if(n == 0)
         return 1;
