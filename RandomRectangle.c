@@ -15,7 +15,7 @@ int main()
         for (i = 1; i <= M; i++)
         {
             for (j = 1; j <= N; j++)
-                printf("#");// You can change the # into another symbol =)))
+                printf("#");// You can change the # into another symbol 
             printf("\n");   
         }   
     }
