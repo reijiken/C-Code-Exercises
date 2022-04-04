@@ -4,7 +4,7 @@
 int factorial(int n) // C function factorial with input integer n
 {
     if(n == 0)
-        return 1;
+        return 1; // Because factorial of O is 1
     else
         return n * factorial(n - 1);
 }    
