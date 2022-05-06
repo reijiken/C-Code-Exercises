@@ -1,6 +1,6 @@
 // C program calculate factorial using for loop
 #include<stdio.h>
-int factorial(int n)
+int factorial(int n) // sample function
 {
     int res = 1, i;
     for(i = 2; i<=n; i++){
@@ -8,7 +8,7 @@ int factorial(int n)
     }
     return res;
 }
-int main(){
+int main(){ // Main function
     int N;
     printf("Enter the number: ");
     scanf("%d",&N);
